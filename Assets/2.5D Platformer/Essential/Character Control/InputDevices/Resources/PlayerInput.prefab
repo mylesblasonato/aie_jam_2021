@@ -44,3 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   savedKeys: {fileID: 11400000, guid: 9011ee3534c5a63429b2afe2dcd3918e, type: 2}
+  axisBindings:
+  - Run
+  - Vertical
+  - Horizontal

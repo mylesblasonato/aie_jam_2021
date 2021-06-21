@@ -21,13 +21,14 @@ MonoBehaviour:
   LethalRange: 0
   MaxHits: 1
   Damage: 1
-  ForwardForce: 1500
-  RightForce: 0
-  UpForce: 500
   normalRagdollVelocity:
     ForwardForce: 1500
     RightForce: 0
     UpForce: 500
+  collateralRagdollVelocity:
+    ForwardForce: 0
+    RightForce: 0
+    UpForce: 0
   UseDeathParticles: 1
   ParticleType: 3
   collateralDamageInfo:
