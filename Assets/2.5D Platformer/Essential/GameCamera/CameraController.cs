@@ -11,6 +11,12 @@ namespace Roundbeargames
         public float ZoomInSpeed;
 
         private Animator animator;
+
+        void Awake()
+        {
+            Screen.SetResolution(3440, 1440, true, 30);
+        }
+
         public Animator ANIMATOR
         {
             get

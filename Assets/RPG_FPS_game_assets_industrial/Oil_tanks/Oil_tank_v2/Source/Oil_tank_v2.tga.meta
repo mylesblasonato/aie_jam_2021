@@ -66,8 +66,8 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 32
-    resizeAlgorithm: 1
-    textureFormat: 7
+    resizeAlgorithm: 0
+    textureFormat: 63
     textureCompression: 3
     compressionQuality: 0
     crunchedCompression: 1
@@ -90,8 +90,8 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 32
-    resizeAlgorithm: 1
-    textureFormat: 7
+    resizeAlgorithm: 0
+    textureFormat: 63
     textureCompression: 3
     compressionQuality: 0
     crunchedCompression: 1
